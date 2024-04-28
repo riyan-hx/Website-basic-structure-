@@ -1,0 +1,10 @@
+body {
+  background-color: #261E35;
+  margin-top: 0;
+  overflow: hidden;
+}
+
+/* Custom CSS to hide scrollbars for WebKit-based browsers (Chrome, Safari, Edge) */
+.no-scrollbar::-webkit-scrollbar {
+  display: none; /* Hide the scrollbar completely */
+}
